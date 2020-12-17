@@ -1,0 +1,13 @@
+{
+    "name": "waas/demo",
+    "descriptioin": "chainup waas client demo",
+    "require": {
+        "php": ">=5.4.0",
+        "chainup-waas/sdk": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [{
+        "name": "admin",
+        "email": "admin@chainup.com"
+    }]
+}
