@@ -1,6 +1,6 @@
 waas api client demo
 
-doc [http://docs.hicoin.vip/zh/latest/API-WaaS-V2/index.html](https://custodydocs-en.chainup.com/api-references/intro/custody-apis)
+doc [https://custodydocs-en.chainup.com/api-references/intro/custody-apis](https://custodydocs-en.chainup.com/api-references/intro/custody-apis)
 
 require chainup-waas/sdk 1.0
 
